@@ -1,2 +1,2 @@
 # Adding-two-numbers
-This Python project will add two integer numbers together and output the result
+This Python project will add two float numbers together and output the result
